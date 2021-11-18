@@ -1,7 +1,7 @@
 # EcommerceBackend
 https://github.com/ldw5/EcommerceBackend
 # Video walkthrough
-
+https://watch.screencastify.com/v/Lwu9lUm3ThelTzHjv9ho
 # Description
 Build the back end for an e-commerce site by modifying starter code. Configure a working Express.js API to use Sequelize to interact with a MySQL database.
 # Table of Contents

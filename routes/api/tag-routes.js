@@ -2,7 +2,8 @@ const router = require('express').Router();
 const { Tag, Product, ProductTag } = require('../../models');
 
 // The `/api/tags` endpoint
-
+// req is an object containing information about the HTTP request
+// res sends back the response requested
 router.get('/', (req, res) => {
   // find all tags
   // be sure to include its associated Product data
